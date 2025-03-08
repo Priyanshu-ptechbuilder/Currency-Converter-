@@ -1,7 +1,10 @@
 // const BASE_URL ="https://2024-03-06.currency-api.pages.dev/v1/currencies/eur.json";
+// ya hai origianl api esa mai exchnage rat nahi nekaal pa raha hu 
+
 //we are using the reduced form of url having no following endpoints 
 // const BASE_URL ="https://2024-03-06.currency-api.pages.dev/v1/currencies";
 
+//ya necha bahil apikey hai jiska maina use kiya hai 
 const apiKey = "00f6c95f95f047d49f68ca762e8d3c52";
 const url = "https://api.exchangerate-api.com/v4/latest/USD?apikey=${apiKey}";
 
